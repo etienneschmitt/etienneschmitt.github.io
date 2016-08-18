@@ -1,6 +1,6 @@
 {
   "name": "Étienne Schmitt",
   "tagline": "",
-  "body": "I am a R&D engineer working at [Inria](https://www.inria.fr/) Strasbourg, in the [Mimesis team](http://mimesis.inria.fr/). Our team is specialized in real-time medical simulation. Based on the [SOFA framework](https://www.sofa-framework.org/), we develop innovative technologies to train, assist and guide clinicians.\r\nMy work in focused on topology data structures. I am involved in the rewriting of the [CGoGN library](https://github.com/cgogn/CGoGN_2), a c++11 implementation of combinatorial maps.\r\nI am currently working on using CGoGN as the default topology model in SOFA.\r\n\r\n",
+  "body": "![Profile picture](https://etienneschmitt.github.io/images/es.jpg)\r\n\r\nI am a R&D engineer working at [Inria](https://www.inria.fr/) Strasbourg, in the [Mimesis team](http://mimesis.inria.fr/). Our team is specialized in real-time medical simulation. Based on the [SOFA framework](https://www.sofa-framework.org/), we develop innovative technologies to train, assist and guide clinicians.\r\nMy work in focused on topology data structures. I am involved in the rewriting of the [CGoGN library](https://github.com/cgogn/CGoGN_2), a c++11 implementation of combinatorial maps.\r\nI am currently working on using CGoGN as the default topology model in SOFA.\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
